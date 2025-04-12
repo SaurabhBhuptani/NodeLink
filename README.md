@@ -1,2 +1,2 @@
 # NodeLink
-A Python Game for Graph Theory
+A Python Game on Graph Theory
